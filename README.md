@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea.
+I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea. I am a member of the [computer vision lab](http://cvlab.postech.ac.kr/lab/) at POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research interest is in learning video representation and its applications.
 
 [resume](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume%20.pdf)
 
@@ -30,7 +30,7 @@ I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (P
 * Heeseung Kwon*, **Manjin Kim***, Suha Kwak, and Minsu Cho, Learning self-similarity in space and time as as generalized motion for video action recognition, _ICCV_, 2021.   (* equal contribution) [paper](https://arxiv.org/abs/2102.07092) [code](https://github.com/arunos728/SELFY)
 * **Manjin Kim***, Heeseung Kwon, Chunyu Wang, Suha Kwak, and Minsu Cho, Relational self-attention: what's missing in attention for video understanding, _NeurIPS_, 2021.   (* equal contribution) [paper](https://arxiv.org/abs/2111.01673) [code](https://github.com/KimManjin/RSA)
 
-#### Industrial experiences
+#### Industry experience
 * LG, CNS, Research Intern, Jun 2018 - Aug 2018
 * Microsoft Research Asia (MSRA), Research Intern, Dec 2020 - June 2021
 
