@@ -1,4 +1,4 @@
-### Hi there 👋
+### Manjin Kim 👋
 
 <!--
 **KimManjin/KimManjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea.
