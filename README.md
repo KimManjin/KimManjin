@@ -29,7 +29,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 * **Manjin Kim***, Heeseung Kwon, Chunyu Wang, Suha Kwak, and Minsu Cho, Relational self-attention: what's missing in attention for video understanding, _NeurIPS_, 2021.   (* equal contribution) [paper](https://arxiv.org/abs/2111.01673) [code](https://github.com/KimManjin/RSA)
 
 #### Industry experience
-* LG, CNS, Research Intern, Jun 2018 - Aug 2018
+* LG CNS, Research Intern, Jun 2018 - Aug 2018
 * Microsoft Research Asia (MSRA), Research Intern, Dec 2020 - June 2021
 
 #### Contact
