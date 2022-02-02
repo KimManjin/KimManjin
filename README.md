@@ -1,4 +1,4 @@
-### Manjin Kim 👋
+### Hello, everyone 👋
 
 <!--
 **KimManjin/KimManjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea. I am a member of the [computer vision lab](http://cvlab.postech.ac.kr/lab/) at POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research interest is in learning video representation and its applications.
+I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/), South Korea. I am a member of the [computer vision lab](http://cvlab.postech.ac.kr/lab/) at POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research interest is in learning video representation and its applications.
 
 -------------
 #### Research Interests
