@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea. I am a member of the [computer vision lab](http://cvlab.postech.ac.kr/lab/) at POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research interest is in learning video representation and its applications.
 
-[resume](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume%20.pdf)
-
 -------------
 #### Research Interests
 * Video representation learning
@@ -37,3 +35,4 @@ I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (P
 #### Contact
 * e-mail: mandos@postech.ac.kr
 * google scholar: [https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao)
+* CV: [CV](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume%20.pdf)
