@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea.
+
 -------------
 #### Research Interests
 * Video representation learning
