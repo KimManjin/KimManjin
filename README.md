@@ -28,6 +28,10 @@ I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (P
 * Heeseung Kwon*, **Manjin Kim***, Suha Kwak, and Minsu Cho, Learning self-similarity in space and time as as generalized motion for video action recognition, _ICCV_, 2021.   (* equal contribution) [paper](https://arxiv.org/abs/2102.07092) [code](https://github.com/arunos728/SELFY)
 * **Manjin Kim***, Heeseung Kwon, Chunyu Wang, Suha Kwak, and Minsu Cho, Relational self-attention: what's missing in attention for video understanding, _NeurIPS_, 2021.   (* equal contribution) [paper](https://arxiv.org/abs/2111.01673) [code](https://github.com/KimManjin/RSA)
 
+#### Industrial experiences
+* LG, CNS, Research Intern, Jun 2018 - Aug 2018
+* Microsoft Research Asia (MSRA), Research Intern, Dec 2020 - June 2021
+
 #### Contact
 * e-mail: mandos@postech.ac.kr
 * google scholar: [https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao)
