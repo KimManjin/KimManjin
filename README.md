@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 I'm Manjin Kim, a Ph.D student in Pohang University of Science and Technology (POSTECH), South Korea.
+-------------
+#### Research Interests
+
+#### Publications
+* Heeseung Kwon, **Manjin Kim**, Suha Kwak, and Minsu Cho, MotionSqueeze: neural motion feature learning for video understanding, _ECCV_, 2020.
+* Heeseung Kwon*, **Manjin Kim***, Suha Kwak, and Minsu Cho, Learning self-similarity in space and time as as generalized motion for video action recognition, _ICCV_, 2021.
+* **Manjin Kim***, Heeseung Kwon, Chunyu Wang, Suha Kwak, and Minsu Cho, Relational self-attention: what's missing in attention for video understanding, _NeurIPS_, 2021.
+* 
+#### Contact
