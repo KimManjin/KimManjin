@@ -48,6 +48,6 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 #### Contact
-* CV: [CV](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume%20.pdf)
+* CV: [CV](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume.pdf)
 * e-mail: mandos@postech.ac.kr
 * google scholar: [https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao)
