@@ -27,13 +27,13 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
-- **Future transformer for long-term action anticipation**
+- **Future transformer for long-term action anticipation**  
   Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
-- **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** &#91;[code](https://github.com/KimManjin/RSA)&#93;  
+- **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** \[[code](https://github.com/KimManjin/RSA)\]  
   **Manjin Kim\***, Heeseung Kwon\*, Chunyu Wang, Suha Kwak, and Minsu Cho (* equal contribution), _NeurIPS_ 2021.     
-- **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** &#91;[code](https://github.com/arunos728/SELFY)&#93;  
+- **[Learning self-similarity in space and time as as generalized motion for video action recognition](https://arxiv.org/abs/2102.07092)** \[[code](https://github.com/arunos728/SELFY)\]  
   Heeseung Kwon\*, **Manjin Kim\***, Suha Kwak, and Minsu Cho (* equal contribution), _ICCV_ 2021.
-- **[MotionSqueeze: neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)** &#91;[code](https://github.com/arunos728/MotionSqueeze)&#93;  
+- **[MotionSqueeze: neural motion feature learning for video understanding](https://arxiv.org/abs/2007.09933)** \[[code](https://github.com/arunos728/MotionSqueeze)\]  
   Heeseung Kwon, **Manjin Kim**, Suha Kwak, and Minsu Cho, _ECCV_ 2020.
 
 ---------------------------------------------
