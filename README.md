@@ -27,6 +27,8 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
+- **Learning Correlation Structures for Vision Transformers**   
+  **Manjin Kim**, Paul Hongsuck Seo, Cordelia Schmid, Minsu Cho, _under review_ 2024.
 - **Future transformer for long-term action anticipation**  
   Dayoung Gong, Joonseok Lee, **Manjin Kim**, Seongjong Ha, Minsu Cho, _CVPR_ 2022.
 - **[Relational self-attention: what's missing in attention for video understanding](https://arxiv.org/abs/2111.01673)** \[[code](https://github.com/KimManjin/RSA)\]  
@@ -39,6 +41,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Industry experiences
+- **Student Researcher**, [Google Research]([https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/](https://research.google/)), France (Jul. 2022 - Jan. 2023)
+    + Developed a multimodal long-form video captioning system.
+    + Host: [Paul Hongsuck Seo](https://phseo.github.io/)
 - **Research Intern**, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), remote (Dec. 2020 - June. 2021)
     + Developed a dynamic neural feature transform method, called Relational Self-Attention.
     + Mentor: [Chunyu Wang](https://www.microsoft.com/en-us/research/people/chnuwa/)
