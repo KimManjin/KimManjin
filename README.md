@@ -27,9 +27,9 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
-- **Exploring High-Order Self-Similarity for Video Understanding** &#91;  
+- **Exploring High-Order Self-Similarity for Video Understanding**  
   **Manjin Kim**, Heeseung Kwon, Karteek Alahari, and Minsu Cho, _under_ _review_.
-- **Generic Event Boundary Detection via Denoising Diffusion** &#91;  
+- **Generic Event Boundary Detection via Denoising Diffusion**  
   Jaejun Hwang\*, Dayoung Gong\*, **Manjin Kim**, Minsu Cho, _under_ _review_.
 - **[Learning correlation structures for vision transformers](https://arxiv.org/abs/2404.03924)** &#91;[project page](https://kimmanjin.github.io/structsa/)&#93; &#91;[code](https://github.com/KimManjin/StructViT)&#93;  
   **Manjin Kim**, Paul Hongsuck Seo\*, Cordelia Schmid, and Minsu Cho\* (* corresponding authors), _CVPR_ 2024.
