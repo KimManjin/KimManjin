@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/), South Korea. I am a member of the [computer vision lab](http://cvlab.postech.ac.kr/lab/) at POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research interest is in learning video representation and its applications.
+I'm Manjin Kim, a Senior Researcher at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence). I completed my Ph.D. in 2026 at [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/eng/), South Korea, under the supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) in the [computer vision lab](http://cvlab.postech.ac.kr/lab/). My research interest is in learning video representation and its applications.
 
 ---------------------------------------------
 
@@ -27,10 +27,12 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Publications
+- **Tempered Self-Similarity Alignment for Physically Plausible Video Generation**  
+  **Manjin Kim**, Suha Kwak, and Minsu Cho, _CVPR Workshop on Video Generative Models: Benchmarks and Evaluation_ 2026.
 - **Exploring High-Order Self-Similarity for Video Understanding**  
-  **Manjin Kim**, Heeseung Kwon, Karteek Alahari, and Minsu Cho, _under_ _review_.
+  **Manjin Kim\***, Heeseung Kwon\*, Karteek Alahari, and Minsu Cho (* equal contribution), _NeurIPS_ 2026.
 - **Generic Event Boundary Detection via Denoising Diffusion**  
-  Jaejun Hwang\*, Dayoung Gong\*, **Manjin Kim**, Minsu Cho (* equal contribution), _under_ _review_.
+  Jaejun Hwang\*, Dayoung Gong\*, **Manjin Kim**, and Minsu Cho (* equal contribution), _ICCV_ 2025.
 - **[Learning correlation structures for vision transformers](https://arxiv.org/abs/2404.03924)** &#91;[project page](https://kimmanjin.github.io/structsa/)&#93; &#91;[code](https://github.com/KimManjin/StructViT)&#93;  
   **Manjin Kim**, Paul Hongsuck Seo\*, Cordelia Schmid, and Minsu Cho\* (* corresponding authors), _CVPR_ 2024.
 - **[Future transformer for long-term action anticipation](https://arxiv.org/abs/2205.14022)** &#91;[project page](http://cvlab.postech.ac.kr/research/FUTR/)&#93; &#91;[code](https://github.com/gongda0e/FUTR)&#93;  
@@ -45,6 +47,7 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 ---------------------------------------------
 
 ## Industry experiences
+- **Senior Researcher**, [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), Seoul, Korea (Mar. 2026 - present)
 - **Student Researcher**, [Google Research]([https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/](https://research.google/)), France (Jul. 2022 - Jan. 2023)
     + Developed a multimodal long-form video captioning system.
     + Host: [Paul Hongsuck Seo](https://phseo.github.io/)
@@ -58,5 +61,5 @@ I'm Manjin Kim, a Ph.D student in [Pohang University of Science and Technology (
 
 #### Contact
 * CV: [CV](https://github.com/KimManjin/KimManjin/blob/main/ManjinKim_resume.pdf)
-* e-mail: mandos@postech.ac.kr
+* e-mail: manjkim@qti.qualcomm.com
 * google scholar: [https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=kqddtlwAAAAJ&hl=en&oi=ao)
